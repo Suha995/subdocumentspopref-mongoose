@@ -42,5 +42,16 @@ body {
         div.header {
             margin: 0 0 4px -39px;
         }
+        ul.comments {
+            color: #aaa;
+            font-size: 0.9rem;
+            li {
+                margin: 0 0 0 -15px;
+                font-style: italic;
+                .date, .comment-author{
+                    color: #777;
+                }
+            }
+        }
     }
 }

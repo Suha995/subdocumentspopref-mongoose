@@ -53,4 +53,18 @@ body div.book ul.customers li .email {
 body div.book div.header {
   margin: 0 0 4px -39px;
 }
+
+body div.book ul.comments {
+  color: #aaa;
+  font-size: 0.9rem;
+}
+
+body div.book ul.comments li {
+  margin: 0 0 0 -15px;
+  font-style: italic;
+}
+
+body div.book ul.comments li .date, body div.book ul.comments li .comment-author {
+  color: #777;
+}
 /*# sourceMappingURL=main.css.map */
